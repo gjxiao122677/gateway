@@ -52,7 +52,7 @@
             <manifest>  
                 <addClasspath>true</addClasspath>  
                 <classpathPrefix>lib/</classpathPrefix>  
-                <mainClass>com.tsmc.gateway.modbusRTU.CollectionMain</mainClass>  
+                <mainClass>com.tsmc.gateway.Gateway</mainClass>  
             </manifest>  
         </archive>  
     </configuration>  
